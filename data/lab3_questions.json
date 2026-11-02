@@ -1,0 +1,10 @@
+{
+  "note": "SYNTHETIC. Lab 3 questions. L3-1..L3-4 are the four lab-card questions. The probe has NO article in the knowledge base.",
+  "questions": [
+    {"id": "L3-1", "text": "My camera does not work in online meetings."},
+    {"id": "L3-2", "text": "The office Wi-Fi keeps dropping. What can I do?"},
+    {"id": "L3-3", "text": "How can I install software that is not in the Software Center?"},
+    {"id": "L3-4", "text": "My VPN will not connect from home."}
+  ],
+  "probe": {"id": "VPN-7", "text": "What is our VPN-7 remote access policy?"}
+}

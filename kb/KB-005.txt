@@ -1,0 +1,3 @@
+ID: KB-005
+Title: Multi-factor sign-in on a new phone
+Text: When you get a new phone, install the authenticator app first. Sign in to the security page from a trusted computer, choose Add device, and scan the QR code with the new phone. Then remove the old phone from the list. If the old phone is lost, contact the service desk to reset your multi-factor method. The service desk will ask for manager approval.

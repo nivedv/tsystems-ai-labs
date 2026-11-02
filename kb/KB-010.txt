@@ -1,0 +1,3 @@
+ID: KB-010
+Title: Camera or microphone not working in meetings
+Text: If your camera or microphone does not work in a meeting, check that the meeting app has permission to use it. Select the correct device in the meeting settings. Unplug and plug in your headset. Close other apps that may be using the camera. Update the meeting app and join again.

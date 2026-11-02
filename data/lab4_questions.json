@@ -1,0 +1,11 @@
+{
+  "note": "SYNTHETIC. Lab 4 question set B with the ANSWER KEY: 'key' is the ONE article that really answers each question. Use the same six questions in every run.",
+  "questions": [
+    {"id": "b1", "text": "The meeting app cannot use my camera after the update.", "key": "KB-010"},
+    {"id": "b2", "text": "VPN does not connect and the internet at home is slow. What should I try?", "key": "KB-001"},
+    {"id": "b3", "text": "My laptop does not start after the update. What can I do?", "key": "KB-008"},
+    {"id": "b4", "text": "The printer does not work and the network is slow.", "key": "KB-003"},
+    {"id": "b5", "text": "Outlook does not open and my laptop is slow.", "key": "KB-006"},
+    {"id": "b6", "text": "I need access to a folder and the network is slow.", "key": "KB-009"}
+  ]
+}

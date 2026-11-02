@@ -1,0 +1,81 @@
+{
+  "ticket": "B",
+  "mode": "temperature",
+  "rows": [
+    {
+      "variant": "temperature 0",
+      "run": 1,
+      "reply": "Thank you for reaching out. Please try closing and reopening your file explorer, then reconnect to the shared drive. If you still see \"access denied,\" check that you are connected to the company network (Wi-Fi or VPN). If the issue persists, let me know your username and the drive name so I can check your permissions."
+    },
+    {
+      "variant": "temperature 0",
+      "run": 2,
+      "reply": "Thank you for reaching out. Please try closing and reopening your file explorer, then attempt to access the shared drive again. If the issue persists, check that you are connected to the company network (Wi-Fi or VPN). If you still see \"access denied,\" let me know if you recently changed your username or if the drive was working before, so I can investigate further."
+    },
+    {
+      "variant": "temperature 0",
+      "run": 3,
+      "reply": "Thank you for reaching out. Please try restarting your computer and reconnecting to the network. If the issue persists, check that you are logged in with your company account. If you still see \"access denied,\" it may be a permissions issue. Let me know if these steps help, and I can escalate the request if needed."
+    },
+    {
+      "variant": "temperature 0",
+      "run": 4,
+      "reply": "Thank you for reaching out. Please try closing and reopening your file explorer, then attempt to access the shared drive again. If the issue persists, check that you are connected to the company network (Wi-Fi or VPN). If you still see \"access denied,\" let me know if you recently changed your username or if the drive was working before, so I can investigate further."
+    },
+    {
+      "variant": "temperature 0",
+      "run": 5,
+      "reply": "Thank you for reaching out. Please try closing and reopening your file explorer, then attempt to access the shared drive again. If the issue persists, check that you are connected to the company network (Wi-Fi or VPN). If you still see \"access denied,\" it may be a permissions issue. Let me know if these steps help or if you need further assistance."
+    },
+    {
+      "variant": "temperature 0.7",
+      "run": 1,
+      "reply": "Thank you for reaching out. Please try restarting your computer, then attempt to access the shared drive again. If the issue persists, double-check that you're connected to the company network (Wi-Fi or VPN if working remotely). If you still see \"access denied,\" let me know if you recently changed departments or your role, as permissions may need updating."
+    },
+    {
+      "variant": "temperature 0.7",
+      "run": 2,
+      "reply": "Thank you for letting us know. Please try closing and reopening the shared drive, and ensure you are connected to the company network. If you still see \u201caccess denied,\u201d please restart your computer and try again. If the issue persists, let me know if you recently changed your username or role, as your permissions may need updating."
+    },
+    {
+      "variant": "temperature 0.7",
+      "run": 3,
+      "reply": "Thank you for letting us know. Please try signing out and back into your account, as this can refresh your permissions. Also, confirm you are connected to the company network (Wi-Fi or VPN if working remotely). If the issue persists, let me know which shared drive you\u2019re trying to access so I can check your permissions."
+    },
+    {
+      "variant": "temperature 0.7",
+      "run": 4,
+      "reply": "Thank you for letting us know. First, please check that you are connected to the company network (Wi-Fi or VPN if working remotely). Try logging out and back in to your computer, then attempt to access the shared drive again. If the issue persists, please let me know the exact drive name and any recent changes to your account. I\u2019ll look into your permissions if needed."
+    },
+    {
+      "variant": "temperature 0.7",
+      "run": 5,
+      "reply": "Thank you for reaching out. Please try the following steps:\n\n1. Log out of your computer and log back in to refresh your credentials.\n2. Ensure you are connected to the company network, either via Wi-Fi or VPN if working remotely.\n3. Double-check that you are using the correct link to the shared drive.\n\nIf you still see \"access denied,\" let me know if this is a new issue or if you previously had access, and I\u2019ll investigate further."
+    },
+    {
+      "variant": "temperature 1.2",
+      "run": 1,
+      "reply": "Hi, thank you for letting us know. Please try closing and reopening your File Explorer first. If you\u2019re offsite, ensure you are connected to VPN. Check that you\u2019re logged in with your company account. If the issue persists, it may be a permissions problem\u2014let me know if you recently changed groups or roles, and I can look into your access."
+    },
+    {
+      "variant": "temperature 1.2",
+      "run": 2,
+      "reply": "Thank you for reaching out. First, please double-check that you are logged in with your company account. Try closing and reopening your file explorer, then access the shared drive again. If possible, restart your computer. If the issue persists, let me know your department and if this has worked before, so I can check your access permissions."
+    },
+    {
+      "variant": "temperature 1.2",
+      "run": 3,
+      "reply": "Thank you for reporting this issue. First, please try restarting your computer, then attempt to access the shared drive again. Make sure you are connected to the company network, either via Wi-Fi or Ethernet. If the problem persists, double-check that you\u2019re using your correct company credentials. If you still see \"access denied,\" please let me know your username and the name of the affected drive so I can investigate further."
+    },
+    {
+      "variant": "temperature 1.2",
+      "run": 4,
+      "reply": "Thank you for reaching out. First, please check that you are logged in with your company account. Then, try disconnecting and reconnecting to the shared drive. If that doesn't work, restart your computer. If you still see \u201caccess denied,\u201d you may not have the correct permissions. Please let me know the name of the shared drive, and I\u2019ll look into your access rights."
+    },
+    {
+      "variant": "temperature 1.2",
+      "run": 5,
+      "reply": "Thank you for your message. First, please check that you are connected to the company network, either onsite or via VPN if working remotely. Try logging out and back in to your computer. If the issue persists, confirm that the shared drive link is correct and that you are using your company account. If problems continue, let me know your operating system (Windows or Mac), and I\u2019ll assist further or check your permissions."
+    }
+  ]
+}

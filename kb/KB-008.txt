@@ -1,0 +1,3 @@
+ID: KB-008
+Title: Laptop is slow or will not start
+Text: If your laptop is slow, restart it first, close apps you do not use, and check that you have at least 10 GB of free disk space. If the laptop will not start, check the charger, remove all USB devices, and hold the power button for 15 seconds. If it still does not start, contact the service desk to arrange a replacement laptop.

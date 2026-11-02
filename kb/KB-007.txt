@@ -1,0 +1,3 @@
+ID: KB-007
+Title: Installing software and updates
+Text: Install approved software from the Software Center. If the software you need is not listed, raise a software request with the business reason and your manager approval. Updates install overnight. Restart your laptop when you are asked to, so that updates can finish. Do not install software from unknown websites.

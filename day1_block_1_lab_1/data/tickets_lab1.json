@@ -1,0 +1,10 @@
+{
+  "note": "SYNTHETIC. Five tickets. Your ticket letter = ABCDE[learner number mod 5]. Learner 1 -> B, 2 -> C, 3 -> D, 4 -> E, 5 -> A, 6 -> B ...",
+  "tickets": [
+    {"letter": "A", "text": "My monitor goes black every few minutes, then comes back."},
+    {"letter": "B", "text": "I cannot open the shared drive. It says access denied."},
+    {"letter": "C", "text": "People hear an echo when I speak in online meetings."},
+    {"letter": "D", "text": "Outlook keeps asking for my password again and again."},
+    {"letter": "E", "text": "My laptop battery is empty after two hours."}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "required": ["category", "priority", "summary", "next_step"],
+  "properties": {
+    "category": {"enum": ["access", "network", "hardware", "software", "other"]},
+    "priority": {"enum": [1, 2, 3]},
+    "summary": {"type": "string"},
+    "next_step": {"type": "string"}
+  }
+}

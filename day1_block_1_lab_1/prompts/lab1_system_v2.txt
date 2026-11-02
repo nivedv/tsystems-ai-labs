@@ -1,0 +1,3 @@
+(STRETCH TASK) Rewrite the prompt in lab1_system.txt so that the replies vary LESS at temperature 1.2.
+Save your new prompt in this file, then run the script with:  --system prompts/lab1_system_v2.txt --temps 1.2 --out lab1_stretch.json
+Ideas: fix the format (numbered list), fix the number of steps, fix the order of steps, fix the opening words.

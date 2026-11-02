@@ -1,0 +1,3 @@
+ID: KB-004
+Title: Locked account and password reset
+Text: An account is locked after five wrong password attempts. Wait 30 minutes and try again, or reset the password yourself at the self-service portal. Open the portal, choose Forgot password, confirm your identity with multi-factor sign-in, and set a new password of at least 12 characters. If the portal is not available, contact the service desk and give your employee ID. Never share your password with anyone.

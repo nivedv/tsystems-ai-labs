@@ -1,0 +1,3 @@
+ID: KB-002
+Title: Office Wi-Fi and guest network
+Text: Employees connect to the CorpWiFi network with their company sign-in. Visitors use the Guest network and a daily code from reception. If the Wi-Fi drops often, forget the network in your settings and connect again. If the connection is slow, move closer to an access point or use a network cable. Report dead spots to the service desk with the floor and room.

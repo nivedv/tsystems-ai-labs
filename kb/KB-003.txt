@@ -1,0 +1,3 @@
+ID: KB-003
+Title: Printer shows offline or will not print
+Text: If a printer shows offline, check that it is switched on and that the network cable or Wi-Fi is connected. Restart the printer. On your laptop, remove the printer and add it again from Settings, Printers. Clear the print queue if a stuck job blocks the printer. For paper jams, open the rear door and pull the paper out gently. Toner is ordered by the service desk, not by users.

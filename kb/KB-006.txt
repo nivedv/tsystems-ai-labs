@@ -1,0 +1,3 @@
+ID: KB-006
+Title: Outlook crashes or mailbox is full
+Text: If Outlook crashes when you open an attachment, start Outlook in safe mode, turn off add-ins one by one, and repair Office from Settings, Apps. Save the attachment to your desktop first and open it from there. If your mailbox is full, delete large messages and move old email to the archive. The mailbox limit is 50 GB.
