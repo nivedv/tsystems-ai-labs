@@ -58,19 +58,16 @@ for label, extra, sys_text in variants:
     print(f"\n== {label}")
     for run in range(1, args.runs + 1):
         # TODO 1: build the list "messages": one system message (sys_text) and one user message (ticket_text).
-        # messages = None
-        messages = [
-            {"role": "system", "content": sys_text},
-            {"role": "user", "content": ticket_text},
+        messages = None
+        
 ]
         if messages is None:
             sys.exit("TODO 1 is not done yet: build the messages list. See hints/HINTS.md")
 
         # TODO 2: call the model with "messages" and **extra (extra holds the temperature, if any).
         #         Put the text of the answer in the variable "reply".
-        # reply = None
-        resp, secs = common.call_model(client, deployment, messages, **extra)
-        reply = resp.choices[0].message.content or ""
+        reply = None
+        
         if reply is None:
             sys.exit("TODO 2 is not done yet: call the model and set reply. See hints/HINTS.md")
 
@@ -80,9 +77,6 @@ for label, extra, sys_text in variants:
 
 # TODO 3: save ALL replies (the list "rows") to results/<args.out> as JSON, with the ticket letter and the mode.
 #         The path is:  LAB / "results" / args.out
-# print("TODO 3 is not done yet: nothing was saved. See hints/HINTS.md")
-# print("Next: python day1_block_1_lab_1/scripts/compare_replies.py   then READ your replies and fill results/RESULT_TABLE.md")
-out = LAB / "results" / args.out
-out.parent.mkdir(exist_ok=True)
-out.write_text(json.dumps({"ticket": letter, "mode": args.mode, "rows": rows}, indent=2), encoding="utf-8")
-print(f"\nSaved {len(rows)} replies to results/{args.out}")
+print("TODO 3 is not done yet: nothing was saved. See hints/HINTS.md")
+print("Next: python day1_block_1_lab_1/scripts/compare_replies.py   then READ your replies and fill results/RESULT_TABLE.md")
+
